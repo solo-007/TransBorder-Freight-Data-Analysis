@@ -1,11 +1,11 @@
 
-# 📦 Freight Transportation Data Analysis – BTS Project
+# Freight Transportation Data Analysis – BTS Project
 
 This project analyzes freight transportation data from the **Bureau of Transportation Statistics (BTS)** to extract business insights, identify operational inefficiencies, and propose sustainability recommendations. It follows the **CRISP-DM framework**, using real-world data spanning multiple years across various transportation modes and trade routes.
 
 ---
 
-## 🔧 Tools & Technologies Used
+## Tools & Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -18,7 +18,7 @@ This project analyzes freight transportation data from the **Bureau of Transport
 
 ---
 
-## 📁 Data Source
+## Data Source
 
 - Data used was extracted from the **Bureau of Transportation Statistics (BTS)**
 - Dataset includes monthly/yearly trade summaries categorized by:
@@ -30,7 +30,7 @@ This project analyzes freight transportation data from the **Bureau of Transport
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 1. **Uncover Freight Movement Patterns**
    - Trends by transportation mode across years
@@ -49,7 +49,7 @@ This project analyzes freight transportation data from the **Bureau of Transport
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - Certain transportation modes (e.g. rail, truck) dominate in trade value, but air may incur higher costs per shipment weight.
 - Domestic vs foreign (`DF`) classification impacts trade type.
@@ -59,9 +59,9 @@ This project analyzes freight transportation data from the **Bureau of Transport
 
 ---
 
-## 🧩 How to Run
+## How to Run
 
-1. Download the notebook: `4a82b615-2be9-4b19-9837-17aae9c24876.ipynb`
+1. Download the notebook: `Transborder_Freight_DataAnalysis.ipynb`
 2. Install dependencies:
    ```bash
    pip install pandas matplotlib seaborn
@@ -69,9 +69,3 @@ This project analyzes freight transportation data from the **Bureau of Transport
 3. Run in Jupyter or any compatible Python environment.
 
 ---
-
-## ✅ Next Steps
-
-- Deploy a dashboard using Streamlit or Dash
-- Integrate geospatial mapping (e.g., using Folium)
-- Compare against external emission benchmarks or trade databases
