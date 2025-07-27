@@ -48,7 +48,23 @@ This project analyzes freight transportation data from the **Bureau of Transport
    - Suggest greener alternatives or optimizations
 
 ---
-
+## BUSINESS QUESTIONS
+### Analytical Questions to Address:
+1.	What is the highest mode of transportation over the years?
+2.  How is freight moving across different transportation modes over time and regions?
+3.  How much freight cost is incurred per dollar of trade value moved?
+4.	How has the total trade value evolved from 2020 to 2024?
+5.	Which mode of transportation dominates trade, and how has its share changed over time?
+6.	Which U.S. ports (by state or code) handle the most freight, and what are the bottlenecks? 
+7.	Is there any seasonal pattern in freight movement (e.g., more trade in Q4)?
+8.	How much does each mode contribute to economic productivity across regions (e.g., by border state)?
+9.	What are the top 10 U.S. states (USASTATE) by total freight value?
+10.	How has the total freight value changed over time?
+11.	What commodities (COMMODITY2) contribute the most to freight value?
+12. Which country is the biggest trade partners based on freight value?
+13. What is the trend of freight weight (SHIPWT) vs value (VALUE) over the years?
+14. Which modes or routes are least environmentally friendly?
+---
 ## Key Insights
 
 - Certain transportation modes (e.g. rail, truck) dominate in trade value, but air may incur higher costs per shipment weight.
