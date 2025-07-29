@@ -189,30 +189,34 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 
 **Key Findings:**
 -Texas among the top 10 states has a freight value of 1,407,813,385,112 USD
+
 ---
 
 ### **10) How has the total freight value changed over time?**
 **Visualization:**![image](https://github.com/user-attachments/assets/30b2ca01-6902-4ec9-98ef-a613e2bc3633)
 
 **Key Findings:**
+-Across all years, freight value tends to rise mid-year (May–August) and taper off slightly toward December, suggesting seasonal demand cycles.
+-Freight value has grown steadily year-over-year, with 2023 and 2024 showing the strongest performance. This reflects expanding trade activity, possibly driven by economic recovery, infrastructure improvements, or increased cross-border flows.
 
 ---
 
----
 ### **11) What commodities (COMMODITY2) contribute the most to freight value?**
-**Visualization:**![image](github.com/user-attachments/assets/25f3bb65-d918-4e93-a293-557706238247)
+**Visualization:**![image](https://github.com/user-attachments/assets/25f3bb65-d918-4e93-a293-557706238247)
 
 **Key Findings:**
--
+-**Vehicles (87)** lead the pack, likely driven by strong automotive trade with Mexico and Canada.
+-**Mineral fuels (27)** reflect the high value of energy commodities, especially pipeline and vessel shipments.
+-**Machinery (84 & 85)** show the backbone of industrial and consumer electronics trade.
 
 ---
 
 
 ### **12) Which country is the biggest trade partner based on freight value?**
-**Visualization:**![image](github.com/user-attachments/assets/40fd1bcc-871f-4b48-ae96-708f7cd41432)
+**Visualization:**![image](https://github.com/user-attachments/assets/40fd1bcc-871f-4b48-ae96-708f7cd41432)
 
 **Key Findings:**
--
+-Canada is the top trading partner to the United State with a trade value of $3,743,616,252,777.
 
 ---
 
@@ -220,17 +224,19 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 **Visualization:**![image](https://github.com/user-attachments/assets/7c416050-acb0-4cc9-802f-970f39f04dc4)
 
 **Key Findings**
--
-
----
-
-**Key Findings:**
--
+-**Divergence:** If VALUE is increasing faster than SHIPWT, it indicates shipping of higher-value goods. (e.g., electronics vs raw materials).
+-**Parallel Movement:** If both increase or decrease together, volume and economic activity are scaling proportionally.
+-**Yearly Anomalies:** Sudden drop in 2020, might indicate events like COVID-19’s impact on trade.
 
 ---
 
 ### **14) Which modes or routes are least environmentally friendly?**
 **Visualization:**![image](https://github.com/user-attachments/assets/30b2ca01-6902-4ec9-98ef-a613e2bc3633)
+
+**Key Findings:**
+-**Cross-border routes like New Jersey→Mexico and Kentucky→Canada are among the least offenders—likely due to heavy reliance on air/truck and high freight costs per kg.
+
+---
 
 ## How to Run
 
