@@ -67,7 +67,7 @@ This project analyzes freight transportation data from the **Bureau of Transport
 
 ---
 ## CRISP-DM Framework
-<img width="768" height="1125" alt="CRISP-DM" src="https://github.com/user-attachments/assets/8493db5b-8c9b-49f2-b3a7-d85ca50a00f0" />
+<img width="768" height="577" alt="CRISP-DM" src="https://github.com/user-attachments/assets/6847e7b9-3bf0-4598-acde-433d21e27e7f" />
 
 ### 1. Business Understanding
 Establish objectives and research questions to tackle BTS's problems, with an emphasis on inefficiencies, safety issues, and environmental effects.
