@@ -109,7 +109,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 **Below are the business questions explored:**  
 
 ### **1) What is the highest mode of transportation over the years?**  
-**Visualization:**[image](https://github.com/user-attachments/assets/75672475-97c4-4efb-a9fb-d46d5d2442ae)
+**Visualization:**![image](https://github.com/user-attachments/assets/75672475-97c4-4efb-a9fb-d46d5d2442ae)
 
 **Key Findings:**  
 - **Road mode of transport dominates (2020-2024) by trade value**
