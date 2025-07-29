@@ -1,4 +1,3 @@
-<img width="981" height="584" alt="image" src="https://github.com/user-attachments/assets/59688b94-3873-49a6-a8df-3a66b4f79761" />
 # Freight Transportation Data Analysis – BTS Project
 
 This project analyzes freight transportation data from the **Bureau of Transportation Statistics (BTS)** to extract business insights, identify operational inefficiencies, and propose sustainability recommendations. It follows the **CRISP-DM framework**, using real-world data spanning multiple years across various transportation modes and trade routes.
