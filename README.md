@@ -109,7 +109,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 **Below are the business questions explored:**  
 
 ### **1) What is the highest mode of transportation over the years?**  
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/75672475-97c4-4efb-a9fb-d46d5d2442ae)
+**Visualization:**[image](https://github.com/user-attachments/assets/75672475-97c4-4efb-a9fb-d46d5d2442ae)
 
 **Key Findings:**  
 - **Road mode of transport dominates (2020-2024) by trade value**
@@ -119,7 +119,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **2) How is freight movement across different transportation modes over time and regions?**  
-**Visualization:** [Congestion Hotspots]![image](https:/github.com/user-attachments/assets/72db2c48-1075-4752-9ce3-1c8ce1050a5f)
+**Visualization:**[image](https:/github.com/user-attachments/assets/72db2c48-1075-4752-9ce3-1c8ce1050a5f)
   
 **Key Findings:**  
 - **Road Transport increased** at a Trade Cost Value of 827Billion USD from the year 2021 uptill 2023 at a Trade Cost Value of 996Billion USD untill its decreasing value of 703Billion USD.
@@ -129,7 +129,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **3) How much freight cost is incurred per dollar of trade value moved?**
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/40854ca2-68d1-448e-b4a6-7c737a3eccb5)
+**Visualization:**[image](https://github.com/user-attachments/assets/40854ca2-68d1-448e-b4a6-7c737a3eccb5)
 
 **Key Findings:**
 -**On average, $0.05 - $0.08 of freight cost** is incurred for every $1 of trade value moved, based on aggregate analysis across all transport modes.
@@ -137,7 +137,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **4) How has the total trade value evolved from 2020 to 2024?**
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/06686f0b-09f8-4dfb-b848-7218be5b0b7d)
+**Visualization:**[image](https://github.com/user-attachments/assets/06686f0b-09f8-4dfb-b848-7218be5b0b7d)
 
 **Key Findings:**
 -**2020 to 2021:** Major surge — trade value increased by ~73%
@@ -148,7 +148,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **5) Which mode of transportation dominates trade, and how has its share changed over time?**
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/9457cc3a-ef45-4a22-9ac8-879ab2aa2633)
+**Visualization:**[image](https://github.com/user-attachments/assets/9457cc3a-ef45-4a22-9ac8-879ab2aa2633)
 
 **Key Findings:**
 -**Truck mode of transport** not only dominates but has grown in absolute trade value every year—reinforcing its role as the backbone of the transportation network.
@@ -156,7 +156,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **6) Which U.S. ports (by state or code) handle the most freight, and what are the bottlenecks?**
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/82900e42-39ed-459b-a1ce-b0fade2603f9)
+**Visualization:**[image](https://github.com/user-attachments/assets/82900e42-39ed-459b-a1ce-b0fade2603f9)
 
 **Key Findings:**
 -**Port Laredo in Texas** with shipment weight of 1.2Trillion kilograms handles the most freight.
@@ -166,7 +166,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **7) Is there any seasonal pattern in freight movement (e.g., more trade in Q4)?**
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/75835153-a43a-4f12-be61-44d199379823)
+**Visualization:**[image](https://github.com/user-attachments/assets/75835153-a43a-4f12-be61-44d199379823)
 
 **Key Findings:**
 -**Higher movement in Q2–Q4 (April–October)**: Likely due to increased production, trade cycles, and holiday stocking.
@@ -176,7 +176,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **8) How much does each mode contribute to economic productivity across regions (e.g., by border state)?**
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/09dc364c-7272-47bb-900a-72554139739e)
+**Visualization:**[image](https://github.com/user-attachments/assets/09dc364c-7272-47bb-900a-72554139739e)
 
 **Key Findings:**
 -**Texas (TX)** dominates by far in total trade value—highlighting its key role as a central freight hub, likely due to extensive border trade with Mexico.
@@ -185,14 +185,14 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **9) What are the top 10 U.S. states (USASTATE) by total freight value?**
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/ba79c066-b79d-4f0e-a01b-b24b726a79d0)
+**Visualization:**[image](https://github.com/user-attachments/assets/ba79c066-b79d-4f0e-a01b-b24b726a79d0)
 
 **Key Findings:**
 -Texas among the top 10 states has a freight value of 1,407,813,385,112 USD
 ---
 
 ### **10) How has the total freight value changed over time?**
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/30b2ca01-6902-4ec9-98ef-a613e2bc3633)
+**Visualization:**[image](https://github.com/user-attachments/assets/30b2ca01-6902-4ec9-98ef-a613e2bc3633)
 
 **Key Findings:**
 
@@ -200,7 +200,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 
 ---
 ### **11) What commodities (COMMODITY2) contribute the most to freight value?**
-**Visualization:**  [Congestion Hotspots]![image](github.com/user-attachments/assets/25f3bb65-d918-4e93-a293-557706238247)
+**Visualization:**[image](github.com/user-attachments/assets/25f3bb65-d918-4e93-a293-557706238247)
 
 **Key Findings:**
 -
@@ -209,7 +209,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 
 
 ### **12) Which country is the biggest trade partner based on freight value?**
-**Visualization:**  [Congestion Hotspots]![image](github.com/user-attachments/assets/40fd1bcc-871f-4b48-ae96-708f7cd41432)
+**Visualization:**[image](github.com/user-attachments/assets/40fd1bcc-871f-4b48-ae96-708f7cd41432)
 
 **Key Findings:**
 -
@@ -217,7 +217,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **13) What is the trend of freight weight (SHIPWT) vs value (VALUE) over the years?**
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/7c416050-acb0-4cc9-802f-970f39f04dc4)
+**Visualization:**[image](https://github.com/user-attachments/assets/7c416050-acb0-4cc9-802f-970f39f04dc4)
 
 **Key Findings**
 -
@@ -230,7 +230,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **14) Which modes or routes are least environmentally friendly?**
-**Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/30b2ca01-6902-4ec9-98ef-a613e2bc3633)
+**Visualization:**[image](https://github.com/user-attachments/assets/30b2ca01-6902-4ec9-98ef-a613e2bc3633)
 
 ## How to Run
 
