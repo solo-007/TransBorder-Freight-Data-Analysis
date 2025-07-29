@@ -118,7 +118,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **2) How is freight movement across different transportation modes over time and regions?**  
-**Visualization:**![image](https:/github.com/user-attachments/assets/72db2c48-1075-4752-9ce3-1c8ce1050a5f)
+**Visualization:**![image](https://github.com/user-attachments/assets/72db2c48-1075-4752-9ce3-1c8ce1050a5f)
   
 **Key Findings:**  
 - **Road Transport increased** at a Trade Cost Value of 827Billion USD from the year 2021 uptill 2023 at a Trade Cost Value of 996Billion USD untill its decreasing value of 703Billion USD.
