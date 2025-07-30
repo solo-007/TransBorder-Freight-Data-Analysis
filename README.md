@@ -215,7 +215,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 **Visualization:**![image](https://github.com/user-attachments/assets/40fd1bcc-871f-4b48-ae96-708f7cd41432)
 
 **Key Findings:**
--Canada is the top trading partner to the United State with a trade value of $3,743,616,252,777.
+-Mexico is the top trading partner to the United State with a trade value of $3,189,151,996,082.
 
 ---
 
