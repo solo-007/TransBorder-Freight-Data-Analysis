@@ -233,7 +233,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 **Visualization:**![image](https://github.com/user-attachments/assets/3c96b645-4f7d-4505-9b2c-8ce4804b6ddf)
 
 **Key Findings:**
--**Cross-border routes like New Jersey→Mexico and Kentucky→Canada are among the least offenders—likely due to heavy reliance on air/truck and high freight costs per kg.
+-Cross-border routes like New Jersey→Mexico and Kentucky→Canada are among the least offenders—likely due to heavy reliance on air/truck and high freight costs per kg.
 
 ---
 
