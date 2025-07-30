@@ -147,7 +147,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **5) Which mode of transportation dominates trade, and how has its share changed over time?**
-**Visualization:**![image](https://github.com/user-attachments/assets/9457cc3a-ef45-4a22-9ac8-879ab2aa2633)
+**Visualization:**![image](https://github.com/user-attachments/assets/5239153a-7df4-45ff-8678-82bc40c6948a)
 
 **Key Findings:**
 -**Truck mode of transport** not only dominates but has grown in absolute trade value every year—reinforcing its role as the backbone of the transportation network.
@@ -175,7 +175,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **8) How much does each mode contribute to economic productivity across regions (e.g., by border state)?**
-**Visualization:**![image](https://github.com/user-attachments/assets/09dc364c-7272-47bb-900a-72554139739e)
+**Visualization:**![image](https://github.com/user-attachments/assets/a85177d0-86a5-4b92-9988-2be2f59818a5)
 
 **Key Findings:**
 -**Texas (TX)** dominates by far in total trade value—highlighting its key role as a central freight hub, likely due to extensive border trade with Mexico.
@@ -212,7 +212,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 
 
 ### **12) Which country is the biggest trade partner based on freight value?**
-**Visualization:**![image](https://github.com/user-attachments/assets/40fd1bcc-871f-4b48-ae96-708f7cd41432)
+**Visualization:**![image](https://github.com/user-attachments/assets/9c0d40ca-4f1a-4fbc-b550-db6ba2655f41)
 
 **Key Findings:**
 -Mexico is the top trading partner to the United State with a trade value of $3,189,151,996,082.
@@ -220,7 +220,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **13) What is the trend of freight weight (SHIPWT) vs value (VALUE) over the years?**
-**Visualization:**![image](https://github.com/user-attachments/assets/7c416050-acb0-4cc9-802f-970f39f04dc4)
+**Visualization:**![image](https://github.com/user-attachments/assets/1980b43d-0fe1-4a2c-8969-87134b498b48)
 
 **Key Findings**
 -**Divergence:** If VALUE is increasing faster than SHIPWT, it indicates shipping of higher-value goods. (e.g., electronics vs raw materials).
@@ -230,7 +230,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **14) Which modes or routes are least environmentally friendly?**
-**Visualization:**![image](https://github.com/user-attachments/assets/30b2ca01-6902-4ec9-98ef-a613e2bc3633)
+**Visualization:**![image](https://github.com/user-attachments/assets/3c96b645-4f7d-4505-9b2c-8ce4804b6ddf)
 
 **Key Findings:**
 -**Cross-border routes like New Jersey→Mexico and Kentucky→Canada are among the least offenders—likely due to heavy reliance on air/truck and high freight costs per kg.
