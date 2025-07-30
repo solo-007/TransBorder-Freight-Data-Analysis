@@ -87,7 +87,7 @@ Establish objectives and research questions to tackle BTS's problems, with an em
 - **Geospatial Analysis:** Map freight flows and bottlenecks using GeoPandas.
 - **Pattern Recognition:** Use clustering to group regions or commodities.
 - **Environmental and Safety Assessment:** Analyze emissions and safety incidents.
-- Tools: Matplotlib, Plotly, Scikit-learn.
+- **Tools:** Matplotlib, Plotly, Scikit-learn.
 
 ### 5. Evaluation
 Validate findings through cross-referencing benchmarks and stakeholder feedback to ensure actionable insights
