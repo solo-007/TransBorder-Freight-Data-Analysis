@@ -237,6 +237,16 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 
 ---
 
+## Project Link
+**LINK:** https://github.com/solo-007/TransBorder-Freight-Data-Analysis/
+
+---
+
+## Author's Profile
+**LinkedIn:** https://linkedin.com/in/solomon-sannie
+**Github:** https://github.com/solo-007/
+
+---
 ## How to Run
 
 1. Download the notebook: `Transborder_Freight_DataAnalysis.ipynb`
