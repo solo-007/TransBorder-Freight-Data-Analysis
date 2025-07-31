@@ -244,6 +244,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 
 ## Author's Profile
 **LinkedIn:** https://linkedin.com/in/solomon-sannie
+
 **Github:** https://github.com/solo-007/
 
 ---
