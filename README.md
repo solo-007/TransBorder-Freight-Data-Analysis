@@ -108,7 +108,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 **Below are the business questions explored:**  
 
 ### **1) What is the highest mode of transportation over the years?**  
-**Visualization:**![image](https://github.com/user-attachments/assets/75672475-97c4-4efb-a9fb-d46d5d2442ae)
+**Visualization:**![image](https://github.com/user-attachments/assets/a74d247c-fd90-40eb-9721-7b7346865da6)
 
 **Key Findings:**  
 - **Road mode of transport dominates (2020-2024) by trade value**
@@ -118,8 +118,8 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **2) How is freight movement across different transportation modes over time and regions?**  
-**Visualization:**![image](https://github.com/user-attachments/assets/72db2c48-1075-4752-9ce3-1c8ce1050a5f)
-  
+**Visualization:**![image](https://github.com/user-attachments/assets/a9536bc1-1bb9-49ff-81f2-5c1d1f847d39)
+
 **Key Findings:**  
 - **Road Transport increased** at a Trade Cost Value of 827Billion USD from the year 2021 uptill 2023 at a Trade Cost Value of 996Billion USD untill its decreasing value of 703Billion USD.
 - **Port Laredo** in the Texas dominated with Truck mode of transport at a value of $962.31 Billion
@@ -128,7 +128,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **3) How much freight cost is incurred per dollar of trade value moved?**
-**Visualization:**![image](https://github.com/user-attachments/assets/40854ca2-68d1-448e-b4a6-7c737a3eccb5)
+**Visualization:**![image](https://github.com/user-attachments/assets/838acf5b-27be-40af-898e-31b75103e937)
 
 **Key Findings:**
 -**On average, $0.05 - $0.08 of freight cost** is incurred for every $1 of trade value moved, based on aggregate analysis across all transport modes.
@@ -136,7 +136,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **4) How has the total trade value evolved from 2020 to 2024?**
-**Visualization:**![image](https://github.com/user-attachments/assets/06686f0b-09f8-4dfb-b848-7218be5b0b7d)
+**Visualization:**![image](https://github.com/user-attachments/assets/3283a8c3-1759-4064-a43f-0758ac638f6c)
 
 **Key Findings:**
 -**2020 to 2021:** Major surge — trade value increased by ~73%
@@ -147,7 +147,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **5) Which mode of transportation dominates trade, and how has its share changed over time?**
-**Visualization:**![image](https://github.com/user-attachments/assets/5239153a-7df4-45ff-8678-82bc40c6948a)
+**Visualization:**![image](https://github.com/user-attachments/assets/7f1a7385-e76d-45df-8524-086516644e94)
 
 **Key Findings:**
 -**Truck mode of transport** not only dominates but has grown in absolute trade value every year—reinforcing its role as the backbone of the transportation network.
@@ -155,7 +155,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **6) Which U.S. ports (by state or code) handle the most freight, and what are the bottlenecks?**
-**Visualization:**![image](https://github.com/user-attachments/assets/82900e42-39ed-459b-a1ce-b0fade2603f9)
+**Visualization:**![image](https://github.com/user-attachments/assets/8c459501-7dd0-411b-92b3-d1a644c66669)
 
 **Key Findings:**
 -**Port Laredo in Texas** with shipment weight of 1.2Trillion kilograms handles the most freight.
@@ -165,7 +165,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **7) Is there any seasonal pattern in freight movement (e.g., more trade in Q4)?**
-**Visualization:**![image](https://github.com/user-attachments/assets/75835153-a43a-4f12-be61-44d199379823)
+**Visualization:**![image](https://github.com/user-attachments/assets/46af1199-619d-4e65-8ae1-47d045e84678)
 
 **Key Findings:**
 -**Higher movement in Q2–Q4 (April–October)**: Likely due to increased production, trade cycles, and holiday stocking.
@@ -175,7 +175,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **8) How much does each mode contribute to economic productivity across regions (e.g., by border state)?**
-**Visualization:**![image](https://github.com/user-attachments/assets/a85177d0-86a5-4b92-9988-2be2f59818a5)
+**Visualization:**![image](https://github.com/user-attachments/assets/afa9ae97-996c-4426-b282-40fd8a8cfffa)
 
 **Key Findings:**
 -**Texas (TX)** dominates by far in total trade value—highlighting its key role as a central freight hub, likely due to extensive border trade with Mexico.
@@ -184,7 +184,8 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **9) What are the top 10 U.S. states (USASTATE) by total freight value?**
-**Visualization:**![image](https://github.com/user-attachments/assets/ba79c066-b79d-4f0e-a01b-b24b726a79d0)
+**Visualization:**![image](https://github.com/user-attachments/assets/a9b1f4b5-e4f4-4776-b4e5-ab1e47703776)
+
 
 **Key Findings:**
 -Texas among the top 10 states has a freight value of 1,407,813,385,112 USD
@@ -192,7 +193,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **10) How has the total freight value changed over time?**
-**Visualization:**![image](https://github.com/user-attachments/assets/30b2ca01-6902-4ec9-98ef-a613e2bc3633)
+**Visualization:**![image](https://github.com/user-attachments/assets/718672f6-fc84-406c-b932-f081da4e766b)
 
 **Key Findings:**
 -Across all years, freight value tends to rise mid-year (May–August) and taper off slightly toward December, suggesting seasonal demand cycles.
@@ -201,7 +202,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **11) What commodities (COMMODITY2) contribute the most to freight value?**
-**Visualization:**![image](https://github.com/user-attachments/assets/25f3bb65-d918-4e93-a293-557706238247)
+**Visualization:**![image](https://github.com/user-attachments/assets/1fab3fab-6d6b-4973-8c35-fcf0372ecd38)
 
 **Key Findings:**
 -**Vehicles (87)** lead the pack, likely driven by strong automotive trade with Mexico and Canada.
@@ -212,7 +213,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 
 
 ### **12) Which country is the biggest trade partner based on freight value?**
-**Visualization:**![image](https://github.com/user-attachments/assets/9c0d40ca-4f1a-4fbc-b550-db6ba2655f41)
+**Visualization:**![image](https://github.com/user-attachments/assets/66d8d50c-92ca-4d7b-9870-57fae5f8121b)
 
 **Key Findings:**
 -Mexico is the top trading partner to the United State with a trade value of $3,189,151,996,082.
@@ -220,7 +221,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **13) What is the trend of freight weight (SHIPWT) vs value (VALUE) over the years?**
-**Visualization:**![image](https://github.com/user-attachments/assets/1980b43d-0fe1-4a2c-8969-87134b498b48)
+**Visualization:**![image](https://github.com/user-attachments/assets/a2fbc17c-61aa-4e01-8eea-129dcf647d03)
 
 **Key Findings**
 -**Divergence:** If VALUE is increasing faster than SHIPWT, it indicates shipping of higher-value goods. (e.g., electronics vs raw materials).
@@ -230,7 +231,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 ---
 
 ### **14) Which modes or routes are least environmentally friendly?**
-**Visualization:**![image](https://github.com/user-attachments/assets/3c96b645-4f7d-4505-9b2c-8ce4804b6ddf)
+**Visualization:**![image](https://github.com/user-attachments/assets/31e5267c-4624-4539-bd9b-928e4d712272)
 
 **Key Findings:**
 -Cross-border routes like New Jersey→Mexico and Kentucky→Canada are among the least offenders—likely due to heavy reliance on air/truck and high freight costs per kg.
